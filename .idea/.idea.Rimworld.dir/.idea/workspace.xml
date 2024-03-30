@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6e42a99b-e246-4be4-8393-f04544cf4773" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Rimworld.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Rimworld.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCSharp/TestCSharp/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestCSharp/TestCSharp/Class1.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +30,7 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/TestCSharp/TestCSharp/Class1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestConsole/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,7 +40,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2eOpiPFA0ZOGvAUMFmBNXKB9A9z" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -76,6 +77,8 @@
       <updated>1711785606033</updated>
       <workItem from="1711785608659" duration="2843000" />
       <workItem from="1711788549973" duration="519000" />
+      <workItem from="1711790179380" duration="41000" />
+      <workItem from="1711790273018" duration="267000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit&#10;testing if test.txt works">
       <option name="closed" value="true" />
@@ -133,7 +136,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711788676431</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="deleted testconsole">
+      <option name="closed" value="true" />
+      <created>1711789989020</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711789989020</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added Test Console">
+      <option name="closed" value="true" />
+      <created>1711790082419</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711790082419</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +168,8 @@
     <MESSAGE value="HElp" />
     <MESSAGE value="Commit TestCSharp Directory" />
     <MESSAGE value="git ignore .idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="git ignore .idea" />
+    <MESSAGE value="deleted testconsole" />
+    <MESSAGE value="Added Test Console" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Test Console" />
   </component>
 </project>
